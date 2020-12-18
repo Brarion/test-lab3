@@ -1,0 +1,13 @@
+{
+  "name": "my-awesome-module",
+  "version": "1.2.3",
+  "devDependencies": {
+    "tap": "^13.1.11"
+  },
+  "scripts": {
+    "test": "tap"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
